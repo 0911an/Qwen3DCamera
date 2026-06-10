@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Qwen3DCamera" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">#D9F3FD</item>
+        <item name="android:colorBackground">#D9F3FD</item>
+        <item name="android:statusBarColor">#D9F3FD</item>
+    </style>
+</resources>
